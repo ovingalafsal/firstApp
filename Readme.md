@@ -1,8 +1,4 @@
-Bsdsdsdsadsdsln
-dsdsdlda
-B
-B
-B
-B
-C
-I
+It is My first App in the gitHub 
+
+
+
